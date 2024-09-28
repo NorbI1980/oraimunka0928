@@ -8,7 +8,10 @@
 #import negyzetgyok
 #import e13
 #import e14
-import e15
+#import e15
+#import mintaw1
+#import mintafor
+import cgyakorlas
 
 
 
@@ -22,4 +25,12 @@ import e15
 #negyzetgyok.negyzetgyok()
 #e13.kor()
 #e14.kocka()
-e15.teglalap()
+#e15.teglalap()
+#mintaw1.mintaw1()
+#mintafor.szamlalo1()
+#mintafor.szamlalo3()
+#cgyakorlas.harom()
+#cgyakorlas.negy()
+#cgyakorlas.ot()
+#cgyakorlas.hat()
+cgyakorlas.het()
